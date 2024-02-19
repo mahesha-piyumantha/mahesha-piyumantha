@@ -1,6 +1,6 @@
 ### Hi there 👋, Mahesha Piyumantha
 #### Software Developer
-![Software Developer](https://github.com/mahesha-piyumantha/mahesha-piyumantha/blob/main/Beecrowd-Agosto-6-02-larger.png)
+![Software Developer](https://github.com/mahesha-piyumantha/mahesha-piyumantha/blob/main/1_z09s6aSERC0ZuZ4jCYWVuA.png)
 
 I'm a passionate software developer based in Sri Lanka, specializing in Mobile development and Web development. I love building apps related to Flutter, React, Next.js and React Native contributing to open-source projects, and collaborating with like-minded individuals.
 

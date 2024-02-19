@@ -4,9 +4,7 @@
 
 I'm a passionate software developer based in Sri Lanka, specializing in Mobile development and Web development. I love building apps related to Flutter, React, Next.js and React Native contributing to open-source projects, and collaborating with like-minded individuals.
 
-🚀 My Skills
-Programming Languages: Dart, JS, TS, Java
-Technologies & Frameworks: Flutter, React, React-Native, Next.js, Node.js
+🚀 Skills: REACT / JS / HTML / CSS / TS / JAVA / FLUTTER / NODE.JS / NEXT.JS
 
 💼 Work Experience
 SE Intern at Creative Software, 1 year
@@ -17,8 +15,6 @@ LinkedIn: https://www.linkedin.com/in/mahesha-piyumantha-633252198/
 
 🤝 Open to Collaboration
 I'm always open to collaborating on projects or discussing ideas. Feel free to reach out to me via linked in!
-
-Skills: REACT / JS / HTML / CSS / TS / JAVA
 
 - 🔭 I’m currently working on self learning projects 
 

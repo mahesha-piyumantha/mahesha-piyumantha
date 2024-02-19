@@ -21,11 +21,15 @@ I'm always open to collaborating on projects or discussing ideas. Feel free to r
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahesha-piyumantha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mahesha-piyumantha-633252198//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mahesha-piyumantha-portfolio.netlify.app/)  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahesha-piyumantha)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesha-piyumantha)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahesha-piyumantha&show_icons=true&count_private=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mahesha-piyumantha)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesha-piyumantha)](https://github.com/anuraghazra/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mahesha-piyumantha)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
 

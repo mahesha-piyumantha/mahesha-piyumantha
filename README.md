@@ -6,15 +6,15 @@ I'm a passionate software developer based in Sri Lanka, specializing in Mobile d
 
 🚀 Skills: REACT / JS / HTML / CSS / TS / JAVA / FLUTTER / NODE.JS / NEXT.JS
 
-💼 Work Experience
-SE Intern at Creative Software, 1 year
+💼 Work Experience: 
+SE Intern at Creative Software, 1 year 
 Mobile Developer at ZynergyX Technologies, 1.5 years
 
-📫 Get in Touch
+📫 Get in Touch: 
 LinkedIn: https://www.linkedin.com/in/mahesha-piyumantha-633252198/
 
-🤝 Open to Collaboration
-I'm always open to collaborating on projects or discussing ideas. Feel free to reach out to me via linked in!
+🤝 Open to Collaboration: 
+I'm always open to collaborating on projects or discussing ideas. Feel free to reach out to me via LinkedIn!
 
 - 🔭 I’m currently working on self learning projects 
 

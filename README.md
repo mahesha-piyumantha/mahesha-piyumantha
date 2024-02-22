@@ -13,13 +13,14 @@ Mobile Developer at ZynergyX Technologies -  (1.5 years)
 📫 Get in Touch: 
 LinkedIn: https://www.linkedin.com/in/mahesha-piyumantha-633252198/
 
+👨‍💻 My portfolio:
+https://mahesha-piyumantha-portfolio.netlify.app/
+
 🤝 Open to Collaboration: 
 I'm always open to collaborating on projects or discussing ideas. Feel free to reach out to me via LinkedIn!
 
 - 🔭 I’m currently working on self learning projects 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahesha-piyumantha)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/mahesha-piyumantha-633252198//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://mahesha-piyumantha-portfolio.netlify.app/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahesha-piyumantha&show_icons=true&count_private=true)  
 

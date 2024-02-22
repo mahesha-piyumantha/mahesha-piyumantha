@@ -27,7 +27,6 @@ I'm always open to collaborating on projects or discussing ideas. Feel free to r
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesha-piyumantha)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mahesha-piyumantha)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 

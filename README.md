@@ -22,7 +22,7 @@ I'm always open to collaborating on projects or discussing ideas. Feel free to r
 - 🔭 I’m currently working on self learning projects 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahesha-piyumantha&show_icons=true&count_private=true)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahesha-piyumantha)](https://github.com/mahesha-piyumantha/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mahesha-piyumantha)  
 

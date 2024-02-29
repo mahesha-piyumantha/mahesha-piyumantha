@@ -26,7 +26,7 @@ I'm always open to collaborating on projects or discussing ideas. Feel free to r
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=mahesha-piyumantha)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesha-piyumantha)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesha-piyumantha)](https://github.com/mahesha-piyumantha/github-readme-stats)
 
 
 
